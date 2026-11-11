@@ -1,13 +1,5 @@
 ## HOLA CARACOLA
 
-
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Adivina el número</title>
-
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -53,9 +45,9 @@
             margin-top: 20px;
         }
     </style>
-</head>
 
-<body>
+
+
 
     <div class="juego">
         <h1>🎮 Adivina el número</h1>
@@ -131,8 +123,7 @@
         nuevaPartida();
     </script>
 
-</body>
-</html>
+
 
 
 
